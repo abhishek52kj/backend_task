@@ -33,5 +33,5 @@ You are required to build REST APIs using Node.js and Express
 
 #### Mandatory Features
 
-Users should be able to search on the basis of Album Title and Artist Name.
-Sorting (ex: Ratings) and filtering (ex: Genre) capabilities in the result.
+- Users should be able to search on the basis of Album Title and Artist Name.
+- Sorting (ex: Ratings) and filtering (ex: Genre) capabilities in the result.
